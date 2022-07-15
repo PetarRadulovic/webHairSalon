@@ -19,6 +19,7 @@ defineProps({
   display: inline-grid;
   width: 50%;
   text-align: center;
+  row-gap: 15px;
 }
 .osoblje_slika {
   width: 250px;

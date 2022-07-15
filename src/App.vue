@@ -10,12 +10,16 @@
       :slika="item.imgsrc"
       :tekst="item.text"
     />
-    <OsobljeInfo
-      v-for="osoba in listaosoblja"
-      :key="osoba.id"
-      :ime="osoba.ime"
-      :slika="osoba.imgsrc"
-    />
+
+    <div id="osobljeInfo">
+      <h2 class="osobljeInfo_naslov">Osoblje</h2>
+      <OsobljeInfo
+        v-for="osoba in listaosoblja"
+        :key="osoba.id"
+        :ime="osoba.ime"
+        :slika="osoba.imgsrc"
+      />
+    </div>
   </main>
 </template>
 
@@ -38,5 +42,18 @@ body {
   font-family: Arial, Helvetica, sans-serif;
   margin: 0;
   background-color: #e3e3e3;
+}
+#osobljeinfo {
+  display: flex;
+  flex-direction: column;
+  row-gap: 20px;
+  background-color: #e3e3e3;
+}
+#osobljeInfo .osobljeInfo_naslov {
+  text-align: center;
+  margin-top: 10px;
+  padding: 7px;
+  font-size: 30px;
+  color: goldenrod;
 }
 </style>
