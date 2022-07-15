@@ -1,0 +1,27 @@
+[  
+    { 
+        "title": "Nails", 
+        "text" : "Suvi manikir najprostije gledano podrazumeva oblikovanje noktiju, sređivanje zanoktica po potrebi, lakiranje noktiju, stavljanje ulja za zanoktice i kreme za ruke. Za otvaranje pora, kako bi ulje i krema mogli da dublje prodru, može se upotrebiti ugrejan peškir. Suvi manikir može uključiti i piling koji će biti uklonjen vlažnim peškirom ili običnim pranjem ruku. Važno je samo da se ruke i nokti ne natapaju u toploj tečnosti.",
+        "imgsrc": "/src/components/photos/nokti1.jpg.JPG" 
+        
+        
+    }, 
+    { 
+        "title":"HairStyle", 
+        "text" : "Kako godine prolaze, smatrate da vam mnoge frizure koje ste nekada nosili sada ne odgovaraju. Činjenica je da se crte lica i telo počinju menjati s godinama, pa tako možda i frizura koju ste nekada nosili, sada vam nikako ne pristaje. Ipak postoji mnogo onih koje će učiniti da izgledate lepše nego ikad pre!",
+        "imgsrc": "/src/components/photos/frizura1.jpg.JPG"
+       
+     },
+    { 
+        "title": "Makeup",
+        "text" : "Bilo da ste početnik ili profesionalac, zanima vas isključivo dnevna ili večernja šminka, postoje neke osnove i pravila koje možemo nazvati zlatnim i neki proizvodi koji će doprineti da vaša šminka izgleda kao kreacija profesionalnog šminkera.",
+        "imgsrc":  "/src/components/photos/sminka1.jpg.JPG"
+    
+    },
+    { 
+        "title": "Airbrush", 
+        "text" : "Potamnjivanje airbrushom prikriva nedostatke kao sto su vitiligo, fleke, celulit, strije... izgledaćete lepše i mršavije! Idealno rešenje za sve prilike kad želite da zablistate, mature, rodjendane, svadbe, krštenja, izlaske.",
+        "imgsrc": "/src/components/photos/airbrush1.jpg.JPG"
+         } 
+      
+]

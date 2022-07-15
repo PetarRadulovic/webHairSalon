@@ -1,0 +1,9 @@
+ [ {
+            "ime" : "Petra Radulovc",
+            "imgsrc" : "/src/components/photos/osoblje1.jpg.JPG"
+         },
+         {
+            "ime" : "Nina Grmusa",
+            "imgsrc" : "/src/components/photos/osoblje2.jpg.JPG"
+         }
+      ] 
